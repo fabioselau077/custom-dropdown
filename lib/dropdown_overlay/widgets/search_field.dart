@@ -126,7 +126,7 @@ class _SearchFieldState extends State<_SearchField> {
           fillColor: Colors.grey[50],
           constraints: const BoxConstraints.tightFor(height: 40),
           contentPadding: const EdgeInsets.all(8),
-          hintText: 'Search',
+          hintText: 'Procurar',
           hintStyle: const TextStyle(color: Colors.grey),
           prefixIcon: const Icon(Icons.search, color: Colors.grey, size: 22),
           suffixIcon: GestureDetector(
